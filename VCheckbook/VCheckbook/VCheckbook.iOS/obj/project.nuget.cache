@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQJJmujGBc5QxrZn8pH+adFUSoq4Q8M0ZfQESvYY2DHPQCcVqARS5B5wW0nx08Xpt1jRqk0J0AXKLRT40SyjgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nick Rader\\source\\projects\\VCheckbook\\VCheckbook\\VCheckbook.iOS\\VCheckbook.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

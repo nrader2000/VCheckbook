@@ -1,0 +1,15 @@
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\bin\Debug\netstandard2.0\VCheckbook.deps.json
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\bin\Debug\netstandard2.0\VCheckbook.dll
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\bin\Debug\netstandard2.0\ref\VCheckbook.dll
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\bin\Debug\netstandard2.0\VCheckbook.pdb
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\VCheckbook.csprojAssemblyReference.cache
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\VCheckbook.AssemblyInfoInputs.cache
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\VCheckbook.AssemblyInfo.cs
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\VCheckbook.csproj.CoreCompileInputs.cache
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\VCheckbook.dll
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\ref\VCheckbook.dll
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\VCheckbook.pdb
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\Views\BalanceEntry.xaml.g.cs
+C:\Users\Nick Rader\source\projects\VCheckbook\VCheckbook\VCheckbook\obj\Debug\netstandard2.0\Views\BalanceList.xaml.g.cs

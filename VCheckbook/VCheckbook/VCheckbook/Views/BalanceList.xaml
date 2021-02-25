@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VCheckbook.BalanceList"
+             Title="VCheckbook">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Delete Balances"
+                     Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <StackLayout Margin="10">
+        <!--<ListView x:Name="blist">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="50"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding BName}" Grid.Column="0"/>
+                            <Label Text="{Binding BAmount}" Grid.Column="1"/>
+                        </Grid>
+                    </StackLayout>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>-->
+        <CollectionView x:Name="blist"
+                        Margin="20"
+                        SelectionMode="Single"
+                        SelectionChanged="blist_SelectionChanged">
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout Orientation="Vertical"
+                                   ItemSpacing="10"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding BName}"
+                                   FontSize="Medium"
+                                   Grid.Column="0"/>
+                            <Label Text="{Binding BAmount}"
+                                   FontSize="Medium"
+                                   Grid.Column="1"/>
+                        </Grid>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Button Text="+"
+                TextColor="White"
+                FontSize="Large"
+                BackgroundColor="#2EB472"
+                CornerRadius="35"
+                WidthRequest="50"
+                HorizontalOptions="End"
+                Clicked="Button_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
